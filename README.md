@@ -6,4 +6,4 @@
 **Duration:** April 2023–June 2023   
 
 ## Project description
-@TODO
+We conducted the initial tests using a genetic approach to minimize the singlet probability by tuning the timing of the applied external magnetic field pulses. This approach was fine-tuned, similar to a hypervalidation setup, where different configurations were tested, and the best one was selected according to a given measure (the singlet probability), using a grid-search approach. 
